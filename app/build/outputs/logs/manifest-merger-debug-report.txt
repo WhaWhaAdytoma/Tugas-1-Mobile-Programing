@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\79ac9d9c977cdc44ce2ab7e220012bc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3eee748999e1cd1707e0c5f2eaad69a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\87a0ce18e2537d90d0b1caa0b7b3f5a6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\93410d4259a912db976c4b29f04ad1e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\108e35e33539ebe9117ef9b8b9e60f19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\349578b603c34e72a8544d5f53856667\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\ae2b226b20f7990c316fb4a97da8caca\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\6fc27e642626f2c0e944e50b71248dfd\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e5312b50f9c42a5d55fc975ed58060eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\764b7d4fc7feff9b64dfa7665369c5a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\89becdadc4fb73dc16db034fef8bf6d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dc3c01e29e287cbb6198b6ae9f06c3c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d4d8f9bafabaed7c42427cc082e4fb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\064b9c503358dacda6a25c7ac1156176\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\800a6d2803b4e32d678a9d29eb2ef30a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f4687c01782b2c4b7bf4b1b2b9d6ef2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6ee2caf2c46e2c4d1980955b3d98ea63\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2be2138fd7bbcfa7ed1ad1f916922049\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\659cb61c68f1e38901bd2e36fe74f5c1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db705bb2ebd435c9f9f5a0edd7735099\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1f3c3c58bb4d8b4b7c1203e6283ec82\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+	package
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:1-28:12
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\87a0ce18e2537d90d0b1caa0b7b3f5a6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\87a0ce18e2537d90d0b1caa0b7b3f5a6\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\ae2b226b20f7990c316fb4a97da8caca\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\ae2b226b20f7990c316fb4a97da8caca\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:9:9-35
+	android:roundIcon
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.whawha.tugas_1_mobpro.MainActivity
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.whawha.tugas_1_mobpro.ContactActivity
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:20:19-50
+activity#com.example.whawha.tugas_1_mobpro.MainActivity2
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:21:19-48
+activity#com.example.whawha.tugas_1_mobpro.MainActivity3
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.example.whawha.tugas_1_mobpro.MainActivity4
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.example.whawha.tugas_1_mobpro.MainActivity5
+ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml:24:19-48
+uses-sdk
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\79ac9d9c977cdc44ce2ab7e220012bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\79ac9d9c977cdc44ce2ab7e220012bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3eee748999e1cd1707e0c5f2eaad69a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3eee748999e1cd1707e0c5f2eaad69a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\87a0ce18e2537d90d0b1caa0b7b3f5a6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\87a0ce18e2537d90d0b1caa0b7b3f5a6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\93410d4259a912db976c4b29f04ad1e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\93410d4259a912db976c4b29f04ad1e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\108e35e33539ebe9117ef9b8b9e60f19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\108e35e33539ebe9117ef9b8b9e60f19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\349578b603c34e72a8544d5f53856667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\349578b603c34e72a8544d5f53856667\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\ae2b226b20f7990c316fb4a97da8caca\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\ae2b226b20f7990c316fb4a97da8caca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\6fc27e642626f2c0e944e50b71248dfd\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\6fc27e642626f2c0e944e50b71248dfd\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e5312b50f9c42a5d55fc975ed58060eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e5312b50f9c42a5d55fc975ed58060eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\764b7d4fc7feff9b64dfa7665369c5a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\764b7d4fc7feff9b64dfa7665369c5a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\89becdadc4fb73dc16db034fef8bf6d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\89becdadc4fb73dc16db034fef8bf6d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dc3c01e29e287cbb6198b6ae9f06c3c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dc3c01e29e287cbb6198b6ae9f06c3c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d4d8f9bafabaed7c42427cc082e4fb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d4d8f9bafabaed7c42427cc082e4fb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\064b9c503358dacda6a25c7ac1156176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\064b9c503358dacda6a25c7ac1156176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\800a6d2803b4e32d678a9d29eb2ef30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\800a6d2803b4e32d678a9d29eb2ef30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f4687c01782b2c4b7bf4b1b2b9d6ef2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f4687c01782b2c4b7bf4b1b2b9d6ef2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6ee2caf2c46e2c4d1980955b3d98ea63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6ee2caf2c46e2c4d1980955b3d98ea63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2be2138fd7bbcfa7ed1ad1f916922049\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2be2138fd7bbcfa7ed1ad1f916922049\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\659cb61c68f1e38901bd2e36fe74f5c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\659cb61c68f1e38901bd2e36fe74f5c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db705bb2ebd435c9f9f5a0edd7735099\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db705bb2ebd435c9f9f5a0edd7735099\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1f3c3c58bb4d8b4b7c1203e6283ec82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Whawha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1f3c3c58bb4d8b4b7c1203e6283ec82\AndroidManifest.xml:20:5-44
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+		ADDED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml
+		INJECTED from E:\A smster 7\prak.mobpro\Tugas_1_Mobpro\app\src\main\AndroidManifest.xml

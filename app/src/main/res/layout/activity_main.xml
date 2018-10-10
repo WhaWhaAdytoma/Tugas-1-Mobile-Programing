@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/resto3"
+        android:scaleType="fitXY"
+        android:alpha="0.9"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="16dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Selamat Datang!"
+            android:fontFamily="cursive"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="50sp"
+            android:textColor="@color/colorPrimary"
+            android:background="#75ffffff"
+            android:padding="16dp"
+            />
+
+    </LinearLayout>
+
+
+
+    <ImageButton
+        android:id="@+id/menu"
+        android:onClick="Menu"
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+
+
+        android:src="@drawable/menu"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="90dp"
+        />
+
+
+
+    <ImageButton
+        android:id="@+id/telpon"
+        android:onClick="Telefon"
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/menu"
+        android:layout_marginLeft="90dp"
+        android:src="@drawable/telpon"
+
+        android:scaleType="fitXY"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text=""
+        android:textColor="@color/colorPrimary"
+        android:background="#ffffff"
+        android:padding="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_horizontal"
+        />
+
+
+
+</RelativeLayout>
